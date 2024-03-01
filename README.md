@@ -11,7 +11,7 @@ _My name is Matheus Rebello, and I am a student of Analysis and System Developme
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=msrebello&show_icons=true&locale=en&theme=algolia&count_private=true&langs_count=6" alt="msrebello" />
-  <img width="508" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrebello&layout=compact&show_icons=true&theme=algolia&locale=en&count_private=true&langs_count=6" alt="msrebello" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrebello&layout=compact&show_icons=true&theme=algolia&locale=en&count_private=true&langs_count=6" alt="msrebello" />
 </p>
 
 **I'm currently learning**
