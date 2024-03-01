@@ -5,13 +5,13 @@
 _My name is Matheus Rebello, and I am a student of Analysis and System Development. I am a passionate competitive programmer who enjoys devising solutions for programming problems and challenges, studying, and developing efficient algorithms._
 
 **_Achivements:_**
-- 🥈 _Maratona de Programação, Sem. Tecnologia Fatec Ourinhos._
+- 🥈 _2º lugar Maratona de Programação, Sem. Tecnologia Fatec Ourinhos._
 
 #
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msrebello&show_icons=true&locale=en&theme=algolia&count_private=true&langs_count=6" alt="msrebello" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrebello&layout=compact&show_icons=true&theme=algolia&locale=en&count_private=true&langs_count=6" alt="msrebello" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=msrebello&show_icons=true&locale=en&theme=algolia&count_private=true&langs_count=6" alt="msrebello" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrebello&layout=compact&show_icons=true&theme=algolia&locale=en&count_private=true&langs_count=6" alt="msrebello" />
 </p>
 
 **I'm currently learning**
