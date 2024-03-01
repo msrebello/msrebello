@@ -1,4 +1,7 @@
-**Hello There 👋, Welcome!**
+<h4 align="center"> 
+  <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2liMWlranA0b29mY2Rkdnl4YTE1a2lsb2hwbGhpajVtdnRybHN4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"/>
+</h4>
+
 
 **About me**
 
