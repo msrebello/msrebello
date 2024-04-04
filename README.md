@@ -38,3 +38,4 @@ _Meu nome é Matheus Rebello, sou estudante de Analise e Desenvolvimento de Sist
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheussrb@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-scr/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/matheusscrb)
+[![BeeCrowd](https://img.shields.io/badge/-🐝Beecrowd-9400D3?style=for-the-badge)](https://www.beecrowd.com.br/judge/en/profile/948459)
