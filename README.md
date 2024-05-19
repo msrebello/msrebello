@@ -12,13 +12,13 @@ _Meu nome é Matheus Rebello, sou estudante de Análise e Desenvolvimento de Sis
 
 <div>
   <a href="https://github.com/msrebello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msrebello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrebello&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=msrebello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrebello&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 #
 
-<div>
+<div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="40" height="30"/>
