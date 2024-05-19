@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
+
 ## Hello World! ☕
 
 _Meu nome é Matheus Rebello, sou desenvolvedor Backend e programador competitivo. Gosto muito de estudar as bases da computação, resolver problemas e programar em Java._
@@ -34,3 +36,5 @@ _Meu nome é Matheus Rebello, sou desenvolvedor Backend e programador competitiv
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-scr/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/matheusscrb)
 [![BeeCrowd](https://img.shields.io/badge/-🐝Beecrowd-9400D3?style=for-the-badge)](https://www.beecrowd.com.br/judge/en/profile/948459)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=footer"/>
