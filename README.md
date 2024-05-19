@@ -12,8 +12,8 @@ _Meu nome é Matheus Rebello, sou estudante de Análise e Desenvolvimento de Sis
 
 <div>
   <a href="https://github.com/msrebello">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=msrebello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrebello&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=msrebello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrebello&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 #
