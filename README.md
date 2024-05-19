@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
-
 ## Hello World! ☕
 
 _Meu nome é Matheus Rebello, sou desenvolvedor Backend e programador competitivo. Gosto muito de estudar as bases da computação, resolver problemas e programar em Java._
