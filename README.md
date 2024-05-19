@@ -1,17 +1,16 @@
-<h4 align="center"> 
-  <img height="200" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2liMWlranA0b29mY2Rkdnl4YTE1a2lsb2hwbGhpajVtdnRybHN4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"/>
-</h4>
+## Hello World! 🖖
+
+
+**Sobre mim...**
+
+_Meu nome é Matheus Rebello, sou estudante de Análise e Desenvolvimento de Sistemas e programador competitivo. Gosto muito de estudar as bases da computação e resolver problemas._
 
 #
 
-**Sobre mim**
-
-_Meu nome é Matheus Rebello, sou estudante de Analise e Desenvolvimento de Sistemas e programador competitivo. Gosto muito de estudar algoritmos e desenvolvedor soluções eficientes para desafios de programação._
-
-#
-
-**_Conquistas:_**
+**Conquistas:**
 - 🥈 _2º lugar Maratona de Programação, Sem. Tecnologia Fatec Ourinhos._
+- 🥉 _24º posição Fatec-Ou Rank (BeeCrowd)._
+- 🥉 _45679º posicao Java-Rank (HackerRank)._
 
 #
 
@@ -22,7 +21,7 @@ _Meu nome é Matheus Rebello, sou estudante de Analise e Desenvolvimento de Sist
 
 #
 
-**Atualmente estou aprendendo**
+**Atualmente, aprendendo:**
 
   <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="40"/>
