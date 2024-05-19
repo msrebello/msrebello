@@ -1,6 +1,6 @@
 ## Hello World! ☕
 
-_Meu nome é Matheus Rebello, sou estudante de Análise e Desenvolvimento de Sistemas e programador competitivo. Gosto muito de estudar as bases da computação, resolver problemas e programar em Java._
+_Meu nome é Matheus Rebello, sou desenvolvedor Backend e programador competitivo. Gosto muito de estudar as bases da computação, resolver problemas e programar em Java._
 
 #
 
