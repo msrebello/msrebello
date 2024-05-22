@@ -7,7 +7,7 @@ _Meu nome é Matheus Rebello, sou desenvolvedor Backend e programador competitiv
 **Conquistas:**
 - 🥈 _2º lugar Maratona de Programação, Sem. Tecnologia Fatec Ourinhos._
 - 🥉 _24º posição Fatec-Ou Rank (BeeCrowd)._
-- 🥉 _45679º posicao Java-Rank (HackerRank)._
+- 🥉 _29276º posicao Java-Rank (HackerRank)._
  
 
 <div>
